@@ -1,5 +1,8 @@
 # FLUX-Organ
 
+![screenshot]
+[screenshot]: ./images/organ.png
+
 Flux-Organ is a small side project built on `Rails` and `React.js/FLUX`.
 
 ### Setup
