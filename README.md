@@ -17,3 +17,5 @@ Download the repo, navigate to the root app directory and run `bundle install`. 
 ### ToDo
 
 - Create backend to allow users to sign in and save tracks
+- Add one or two more octaves.
+- Make it more prettiful.
